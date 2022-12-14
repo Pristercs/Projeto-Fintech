@@ -1,0 +1,86 @@
+@charset "UTF-8";
+body {
+    background-image: linear-gradient(to top,#91bf4ba1,#c5d930af,#f2e4a0a8,#f2cb57b9);
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 17px;
+    font-style: normal;
+    min-width: 950px;
+    max-width: 1000px;
+    margin: auto;
+}
+h1 {
+    initial-letter: right;
+}
+nav > a {
+    background-color: rgb(245, 240, 195); 
+    list-style: none;
+    padding: 0px;
+    border: 8px solid rgb(248, 243, 214);
+    height: 60px;
+    width: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black; 
+    margin-right: 5px;
+    
+}
+.surp { 
+    background-color: rgb(245, 240, 195); 
+    list-style: none;
+    padding: 0px;
+    border: 8px solid rgb(248, 243, 214);
+    height: 100px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black; 
+    margin-right: 5px;
+
+}
+main > article {
+    background-color:rgb(245, 240, 195); 
+}
+div {
+    background-color: rgb(245, 240, 195); 
+    list-style: none;
+    padding: 0px;
+    border: 8px solid rgb(248, 243, 214);
+    height: 1400px;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black; 
+    margin-right: 5px;
+}
+img {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 20px;
+    font-style: normal
+    }
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 20px;
+    font-style: normal;
+}
+.tit {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 18px;
+    font-style: normal;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 20px;
+    font-style: normal;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 3em;
+    font-size: 15px;
+    font-style: normal;
+}
+.video {
+    float: left;
+}
